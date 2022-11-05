@@ -18,8 +18,8 @@ Example - The cache specifications are:
 
 * To run Gshare Predictor -
 >./sim<br/>
->&emsp;&emsp;<predictor_name = gshare><br/>
->&emsp;&emsp;<<M1>><br/>
+>&emsp;&emsp;"<predictor_name = gshare>"<br/>
+>&emsp;&emsp;<M1><br/>
 >&emsp;&emsp;<N><br/>
 >&emsp;&emsp;<trace_file><br/>
 
