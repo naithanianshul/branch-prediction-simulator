@@ -24,7 +24,7 @@ Example - The cache specifications are:
 >&emsp;&emsp;<trace_file><br/>
 
 Example - The cache specifications are:
-* Number of PC bits (M1) = 9
+* Number of PC bits used to index the gshare table (M1) = 9
 * Global branch history register bits used to index the gshare table (N) = 3
 * Addresses to be accessed present in 'gcc_trace.txt' file
 
@@ -41,7 +41,7 @@ Example - The cache specifications are:
 
 Example - The cache specifications are:
 * Number of PC bits used to index the chooser table (K) = 8
-* Number of PC bits (M1) = 14
+* Number of PC bits used to index the gshare table (M1) = 14
 * Number of PC bits used to index the bimodal table (M2) = 10
 * Global branch history register bits used to index the gshare table (N) = 5
 * Addresses to be accessed present in 'gcc_trace.txt' file
