@@ -19,8 +19,8 @@ Example - The cache specifications are:
 * To run Gshare Predictor -
 >./sim<br/>
 >&emsp;&emsp;<predictor_name = gshare><br/>
->&emsp;&emsp;<M1><br/>
->&emsp;&emsp;<N><br/>
+>&emsp;&emsp;< M1 ><br/>
+>&emsp;&emsp;< N ><br/>
 >&emsp;&emsp;<trace_file><br/>
 
 Example - The cache specifications are:
@@ -33,10 +33,10 @@ Example - The cache specifications are:
 * To run Hybrid Predictor -
 >./sim<br/>
 >&emsp;&emsp;<predictor_name = hybrid><br/>
->&emsp;&emsp;<K><br/>
->&emsp;&emsp;<M1><br/>
->&emsp;&emsp;<N><br/>
->&emsp;&emsp;<M2><br/>
+>&emsp;&emsp;< K ><br/>
+>&emsp;&emsp;< M1 ><br/>
+>&emsp;&emsp;< N ><br/>
+>&emsp;&emsp;< M2 ><br/>
 >&emsp;&emsp;<trace_file><br/>
 
 Example - The cache specifications are:
