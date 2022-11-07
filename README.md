@@ -7,7 +7,7 @@ The format of the command to run the cache simulation is:
 * To run Bimodal Predictor -
 >./sim<br/>
 >&emsp;&emsp;<predictor_name = bimodal><br/>
->&emsp;&emsp;<M2><br/>
+>&emsp;&emsp;< M2 ><br/>
 >&emsp;&emsp;<trace_file><br/>
 
 Example - The cache specifications are:
