@@ -2,7 +2,7 @@
 A branch prediction simulator with bimodal, gshare and a hybrid predictor that selects between the bimodal and the gshare predictor using a chooser table of 2-bit counters.
 
 To run the simulator first compile the code by executing the command 'make'.<br/>
-The format of the command to run the cache simulation is:
+The format of the command to run the branch prediction simulator is:
 
 * To run Bimodal Predictor -
 >./sim<br/>
